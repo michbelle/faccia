@@ -1,0 +1,8 @@
+Symlinking /home/michele/opencv_apps/devel/./setup.bash
+Symlinking /home/michele/opencv_apps/devel/./env.sh
+Symlinking /home/michele/opencv_apps/devel/./_setup_util.py
+Symlinking /home/michele/opencv_apps/devel/./setup.sh
+Symlinking /home/michele/opencv_apps/devel/./setup.zsh
+Symlinking /home/michele/opencv_apps/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/michele/opencv_apps/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/michele/opencv_apps/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

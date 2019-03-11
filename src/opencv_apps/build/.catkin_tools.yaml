@@ -1,0 +1,6 @@
+devel_space: /home/michele/opencv_apps/devel
+install: false
+install_space: /home/michele/opencv_apps/install
+profile: default
+source_space: /home/michele/opencv_apps/src
+workspace: /home/michele/opencv_apps
